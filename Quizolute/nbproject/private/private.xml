@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Administrator/Documents/Projects/Quizolute/Quizolute/src/java/com/quizolute/servlet/AdminPanelServlet.java</file>
+            <file>file:/C:/Users/Administrator/Documents/Projects/Quizolute/Quizolute/src/java/com/quizolute/servlet/AdminPanel/CreateQuestionSetServlet.java</file>
+            <file>file:/C:/Users/Administrator/Documents/Projects/Quizolute/Quizolute/src/java/com/quizolute/servlet/AdminPanel/CreateRoomServlet.java</file>
+            <file>file:/C:/Users/Administrator/Documents/Projects/Quizolute/Quizolute/src/java/com/quizolute/servlet/AdminPanel/ManageRoomServlet.java</file>
+            <file>file:/C:/Users/Administrator/Documents/Projects/Quizolute/Quizolute/src/java/com/quizolute/servlet/LogoutServlet.java</file>
+            <file>file:/C:/Users/Administrator/Documents/Projects/Quizolute/Quizolute/src/java/com/quizolute/servlet/AdminPanel/ManageQuizServlet.java</file>
+            <file>file:/C:/Users/Administrator/Documents/Projects/Quizolute/Quizolute/src/java/com/quizolute/servlet/EditProfileServlet.java</file>
+            <file>file:/C:/Users/Administrator/Documents/Projects/Quizolute/Quizolute/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/Administrator/Documents/Projects/Quizolute/Quizolute/src/java/com/quizolute/servlet/ExitRoomServlet.java</file>
+            <file>file:/C:/Users/Administrator/Documents/Projects/Quizolute/Quizolute/src/java/com/quizolute/servlet/HomeServlet.java</file>
+            <file>file:/C:/Users/Administrator/Documents/Projects/Quizolute/Quizolute/src/java/com/quizolute/servlet/JoinRoomServlet.java</file>
+            <file>file:/C:/Users/Administrator/Documents/Projects/Quizolute/Quizolute/src/java/com/quizolute/servlet/ExamServlet.java</file>
+        </group>
+    </open-files>
+</project-private>
